@@ -395,8 +395,6 @@ a{
             display: flex;
             align-items: center;
             justify-content: center;
-
-            border: 1px solid white;
         }
             #company-header{
                 font-size: 30px;
@@ -409,8 +407,6 @@ a{
             display: flex;
             align-items: center;
             justify-content: center;
-
-            border: 1px solid black;
         }
 
 
